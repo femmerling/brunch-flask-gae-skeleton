@@ -1,0 +1,7 @@
+*.pyc
+*.swo
+.DS_Store
+brunch/build/web/js/*
+brunch/build/web/css/*
+.project
+gae/index.yaml
