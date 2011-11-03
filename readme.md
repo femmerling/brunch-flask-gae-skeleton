@@ -39,7 +39,7 @@ here is a list of assembled components
 * Python 2.5
 * Google AppEngine SDK [http://code.google.com/appengine/downloads.html](http://code.google.com/appengine/downloads.html)
 * NodeJs
-* brunchwithcoffee 0.7+
+* brunchwithcoffee 0.8+
 
 ## Testing
 
