@@ -77,7 +77,7 @@ add replace remote
 
 Add the remote and merge in all changes and removes the old stuff again.
 
-    git remote add skeleton https://github.com/deck/flask-gae-skeleton.git
+    git remote add skeleton https://github.com/femmerling/brunch-flask-gae-skeleton
     git pull skeleton
     git checkout -b skeleton remotes/skeleton/master
     git rebase <your_development_branch like master>
