@@ -20,7 +20,7 @@ here is a list of assembled components
 * deck module with 26 char uuid generator
 * deck module with JsonProperty for the datastore
 * lib directory for external dependencies prepended to syspath
-* brunch [http://www.brunchwithcoffee.com](http://www.brunchwithcoffee.com)
+* brunch [http://www.brunch.io](http://www.brunch.io)
 
 ## Libraries
 
